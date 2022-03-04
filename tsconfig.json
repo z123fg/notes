@@ -1,0 +1,18 @@
+{
+    "compilerOptions": {
+        "target": "es2015",
+        "module": "es6",
+        "lib": [
+            "ES2015",
+            "DOM",
+            "ScriptHost"
+        ],
+        "sourceMap": true,
+        "noImplicitAny": true,
+        "removeComments": true,
+        "preserveConstEnums": false,
+    },
+    "include": [
+        "**/*"
+    ]
+}
